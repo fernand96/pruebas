@@ -3,6 +3,5 @@
 class login{
 
     public function ctrLogin(){
-
     }
 }
